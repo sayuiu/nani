@@ -41,6 +41,7 @@
 @media (min-width: 640px){
 }
 @media (min-width: 1024px){
+	.cont{max-width:1024px;}
 	.prd{width: 20%;}
 	aside .prd-cnt{margin: 0;padding: 0;gap:1rem;flex-direction: column;}
 	aside .prd{margin-right: 0;width: 100%;}
