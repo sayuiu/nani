@@ -1,27 +1,27 @@
 {
     "waifu": {
         "console_open_msg": [
-            "Haha, kamu membuka konsol, apakah kamu ingin melihat rahasiaku?"
+            "Haha, você abre o console, quer ver meu segredo?"
         ],
         "copy_message": [
-            "Apa yang telah Anda salin, ingatlah untuk menambahkan sumbernya saat mencetak ulang"
+            "Não importa o que você tenha copiado, lembre-se de adicionar a fonte ao reimprimir."
         ],
         "screenshot_message": [
-            "Dilakukan dengan baik, bukankah itu lucu?"
+            "Muito bem, não é fofo?"
         ],
         "hidden_message": [
-            "Bisakah kita bertemu lagi..."
+            "Podemos nos encontrar novamente..."
         ],
         "load_rand_textures": [
-            "Saya belum punya pakaian lain",
-            "Apakah pakaian baru saya terlihat bagus?"
+            "Ainda não tenho outras roupas",
+            "Minhas roupas novas parecem boas?"
         ],
         "hour_tips": {
             "t5-7": [
-                "Selamat pagi! Rencana hari ini adalah pagi hari, hari yang baik akan segera dimulai"
+                "Bom dia! O plano de hoje é de manhã, um bom dia começará em breve"
             ],
             "t7-11": [
-                "Selamat pagi! Pekerjaan berjalan dengan baik, jangan duduk lama, bangun dan lebih banyak bergerak!"
+                "Bom dia! O trabalho está indo bem, não fique sentado por muito tempo, levante-se e mexa-se mais!"
             ],
             "t11-14": [
                 "Ini siang, saya bekerja sepanjang pagi, sekarang waktunya makan siang!"
