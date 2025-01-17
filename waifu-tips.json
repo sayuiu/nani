@@ -1,0 +1,385 @@
+{
+    "waifu": {
+        "console_open_msg": [
+            "Haha, kamu membuka konsol, apakah kamu ingin melihat rahasiaku?"
+        ],
+        "copy_message": [
+            "Apa yang telah Anda salin, ingatlah untuk menambahkan sumbernya saat mencetak ulang"
+        ],
+        "screenshot_message": [
+            "Dilakukan dengan baik, bukankah itu lucu?"
+        ],
+        "hidden_message": [
+            "Bisakah kita bertemu lagi..."
+        ],
+        "load_rand_textures": [
+            "Saya belum punya pakaian lain",
+            "Apakah pakaian baru saya terlihat bagus?"
+        ],
+        "hour_tips": {
+            "t5-7": [
+                "Selamat pagi! Rencana hari ini adalah pagi hari, hari yang baik akan segera dimulai"
+            ],
+            "t7-11": [
+                "Selamat pagi! Pekerjaan berjalan dengan baik, jangan duduk lama, bangun dan lebih banyak bergerak!"
+            ],
+            "t11-14": [
+                "Ini siang, saya bekerja sepanjang pagi, sekarang waktunya makan siang!"
+            ],
+            "t14-17": [
+                "Sore hari gampang ngantuk, sudahkah target olahraga hari ini tercapai?"
+            ],
+            "t17-19": [
+                "Ini malam! Pemandangan sunset di luar jendela sangat indah, yang paling indah adalah sunset merah~"
+            ],
+            "t19-21": [
+                "Selamat malam, bagaimana kabarmu hari ini?"
+            ],
+            "t21-23": [
+                "Ini sudah sangat larut, tidurlah lebih awal, selamat malam~"
+            ],
+            "t23-5": [
+                "Apakah Anda burung hantu malam? Anda tidak tidur terlalu larut, mengapa Anda tidak bangun besok?"
+            ],
+            "default": [
+                "Hai~ datang dan goda aku!"
+            ]
+        },
+        "referrer_message": {
+            "localhost": [
+                "selamat membaca<span style=\"color:#0099cc;\">『",
+                "』</span>",
+                " - "
+            ],
+            "baidu": [
+                "Hello! Teman-teman dari pencarian Baidu<br>Anda sedang mencari <span style=\"color:#0099cc;\">",
+                "</span> Apakah kamu menemukan Aku?"
+            ],
+            "so": [
+                "Hello! Teman dari Penelusuran 360<br>Anda sedang mencari <span style=\"color:#0099cc;\">",
+                "</span> Apakah kamu menemukan Aku?"
+            ],
+            "google": [
+                "Hello! teman dari pencarian google<br>Selamat membaca<span style=\"color:#0099cc;\">『",
+                "』</span>",
+                " - "
+            ],
+            "default": [
+                "Hello! dari <span style=\"color:#0099cc;\">",
+                "</span> teman"
+            ],
+            "none": [
+                "selamat membaca<span style=\"color:#0099cc;\">『",
+                "』</span>",
+                " - "
+            ]
+        },
+        "referrer_hostname": {
+            "example.com": [
+                "situs sampel"
+            ],
+            "www.fghrsh.net": [
+                "blog FGHRSH"
+            ]
+        },
+        "model_message": {
+            "1": [
+                "Saus Pio dari Pembuat Ramuan ~"
+            ],
+            "2": [
+                "Saus Tia dari Pembuat Ramuan ~"
+            ]
+        },
+        "hitokoto_api_message": {
+            "lwl12.com": [
+                "Kalimat ini berasal <span style=\"color:#0099cc;\">『{source}』</span>",
+                "，Ya <span style=\"color:#0099cc;\">{creator}</span> Positif",
+                "。"
+            ],
+            "fghrsh.net": [
+                "Sumber kalimat tersebut adalah <span style=\"color:#0099cc;\">『{source}』</span>，Ya <span style=\"color:#0099cc;\">FGHRSH</span> ada {date} Favorit!"
+            ],
+            "jinrishici.com": [
+                "Puisi ini berasal <span style=\"color:#0099cc;\">《{title}》</span>，Ya {dynasty}puisi人 {author} Dibuat!"
+            ],
+            "hitokoto.cn": [
+                "Kalimat ini berasal <span style=\"color:#0099cc;\">『{source}』</span>，Ya <span style=\"color:#0099cc;\">{creator}</span> 在 hitokoto.cn Positif."
+            ]
+        }
+    },
+    "mouseover": [
+        {
+            "selector": ".container a[href^='http']",
+            "text": [
+                "aku mau melihat <span style=\"color:#0099cc;\">{text}</span> 么？"
+            ]
+        },
+        {
+            "selector": ".fui-home",
+            "text": [
+                "Klik untuk masuk ke halaman awal, jika ingin kembali ke halaman sebelumnya, Anda dapat menggunakan fungsi kembali dari browser"
+            ]
+        },
+        {
+            "selector": ".fui-chat",
+            "text": [
+                "Setiap kata, setiap cemberut dan senyum. Satu kata dan satu kalimat, satu perahu dayung."
+            ]
+        },
+        {
+            "selector": ".fui-eye",
+            "text": [
+                "Hmm... Apakah Anda ingin beralih Kanban Girl?"
+            ]
+        },
+        {
+            "selector": ".fui-user",
+            "text": [
+                "Ingin mendandani Play Anda?"
+            ]
+        },
+        {
+            "selector": ".fui-photo",
+            "text": [
+                "Ingin mengambil foto suvenir?"
+            ]
+        },
+        {
+            "selector": ".fui-info-circle",
+            "text": [
+                "berikut adalah informasi tentang saya"
+            ]
+        },
+        {
+            "selector": ".fui-cross",
+            "text": [
+                "tidakkah kamu menyukaiku..."
+            ]
+        },
+        {
+            "selector": "#tor_show",
+            "text": [
+                "Apakah sulit membalik halaman? Klik untuk menampilkan daftar isi artikel ini"
+            ]
+        },
+        {
+            "selector": "#comment_go",
+            "text": [
+                "Ingin mengomentari sesuatu?"
+            ]
+        },
+        {
+            "selector": "#night_mode",
+            "text": [
+                "Jaga mata Anda di malam hari"
+            ]
+        },
+        {
+            "selector": "#qrcode",
+            "text": [
+                "Anda dapat terus menonton hanya dengan satu pindaian di ponsel Anda, sangat nyaman"
+            ]
+        },
+        {
+            "selector": ".comment_reply",
+            "text": [
+                "Apa yang akan Anda keluhkan?"
+            ]
+        },
+        {
+            "selector": "#back-to-top",
+            "text": [
+                "kembali ke awal"
+            ]
+        },
+        {
+            "selector": "#author",
+            "text": [
+                "aku harus memanggilmu apa"
+            ]
+        },
+        {
+            "selector": "#mail",
+            "text": [
+                "Tinggalkan email Anda, atau Anda akan menjadi orang tanpa gambar profil"
+            ]
+        },
+        {
+            "selector": "#url",
+            "text": [
+                "Di mana rumahmu agar aku bisa mengunjunginya"
+            ]
+        },
+        {
+            "selector": "#textarea",
+            "text": [
+                "Isi dengan hati-hati, komentar spam dilarang"
+            ]
+        },
+        {
+            "selector": ".OwO-logo",
+            "text": [
+                "apakah Anda ingin memasukkan emoji"
+            ]
+        },
+        {
+            "selector": "#csubmit",
+            "text": [
+                "Apakah Anda ingin [kirim]^(Komit), komentar pertama perlu ditinjau, harap tunggu dengan sabar~"
+            ]
+        },
+        {
+            "selector": ".ImageBox",
+            "text": [
+                "Klik pada gambar untuk memperbesar"
+            ]
+        },
+        {
+            "selector": "input[name=s]",
+            "text": [
+                "Tidak dapat menemukan apa yang Anda cari? cari itu"
+            ]
+        },
+        {
+            "selector": ".previous",
+            "text": [
+                "Pergi ke halaman sebelumnya untuk melihat"
+            ]
+        },
+        {
+            "selector": ".next",
+            "text": [
+                "pergi ke halaman berikutnya"
+            ]
+        },
+        {
+            "selector": ".dropdown-toggle",
+            "text": [
+                "ini menunya"
+            ]
+        },
+        {
+            "selector": "c-player a.play-icon",
+            "text": [
+                "ingin mendengarkan musik"
+            ]
+        },
+        {
+            "selector": "c-player div.time",
+            "text": [
+                "bisa diatur disini<span style=\"color:#0099cc;\">progres pemutaran</span>Kain wol"
+            ]
+        },
+        {
+            "selector": "c-player div.volume",
+            "text": [
+                "bisa diatur disini<span style=\"color:#0099cc;\">Volume</span>Kain wol"
+            ]
+        },
+        {
+            "selector": "c-player div.list-button",
+            "text": [
+                "<span style=\"color:#0099cc;\">daftar putar</span>apa yang ada di sana"
+            ]
+        },
+        {
+            "selector": "c-player div.lyric-button",
+            "text": [
+                "memiliki<span style=\"color:#0099cc;\">lirik</span>Aku bisa bernyanyi bersama"
+            ]
+        },
+        {
+            "selector": ".waifu #live2d",
+            "text": [
+                "Apa yang kamu lakukan, cepat singkirkan tanganmu",
+                "Mouse ... mouse ada di tempat yang salah!"
+            ]
+        }
+    ],
+    "click": [
+        {
+            "selector": ".waifu #live2d",
+            "text": [
+                "Ya... Aku tidak sengaja menabraknya",
+                "Apa Kau Lolicon?",
+                "Pernahkah kamu melihat beruangku?",
+                "Jika menyentuhnya lagi, saya akan memanggil polisi!⌇●﹏●⌇",
+                "911, ada orang mesum di sini yang telah menyentuhku(ó﹏ò｡)"
+            ]
+        }
+    ],
+    "seasons": [
+        {
+            "date": "01/01",
+            "text": [
+                "<span style=\"color:#0099cc;\">Tahun Baru</span>Nah, tahun baru telah dimulai lagi, tahun ini{year}tahun~"
+            ]
+        },
+        {
+            "date": "02/14",
+            "text": [
+                "tahun lain<span style=\"color:#0099cc;\">hari Valentine</span>，{year}Sudahkah Anda menemukan seseorang di tahun ini~"
+            ]
+        },
+        {
+            "date": "03/08",
+            "text": [
+                "Hari ini adalah<span style=\"color:#0099cc;\">hari perempuan</span>！"
+            ]
+        },
+        {
+            "date": "03/12",
+            "text": [
+                "Hari ini adalah<span style=\"color:#0099cc;\">hari menanam pohon</span>，Untuk melindungi lingkungan"
+            ]
+        },
+        {
+            "date": "04/01",
+            "text": [
+                "Diam-diam memberi tahu Anda sebuah rahasia ~<span style=\"background-color:#34495e;\">Hari ini adalah Hari April Mop, jangan tertipu~</span>"
+            ]
+        },
+        {
+            "date": "05/01",
+            "text": [
+                "Hari ini adalah<span style=\"color:#0099cc;\">Hari Buruh</span>，Sudahkah Anda merencanakan liburan ke mana~"
+            ]
+        },
+        {
+            "date": "06/01",
+            "text": [
+                "Hari ini adalah<span style=\"color:#0099cc;\">Hari Anak</span>Nah, waktu bahagia selalu singkat, alangkah baiknya jika Anda tidak pernah tumbuh dewasa ..."
+            ]
+        },
+        {
+            "date": "09/03",
+            "text": [
+                "Hari ini adalah<span style=\"color:#0099cc;\">Hari Kemenangan Perang Perlawanan Rakyat China Melawan Agresi Jepang</span>，Ingat sejarah, ingat para martir, hargai perdamaian dan ciptakan masa depan."
+            ]
+        },
+        {
+            "date": "09/10",
+            "text": [
+                "Hari ini adalah<span style=\"color:#0099cc;\">Hari Guru</span>，Sapa guru di sekolah~"
+            ]
+        },
+        {
+            "date": "10/01",
+            "text": [
+                "Hari ini adalah<span style=\"color:#0099cc;\">hari Nasional</span>，China Baru telah berdiri selama 69 tahun"
+            ]
+        },
+        {
+            "date": "11/05-11/12",
+            "text": [
+                "Tahun ini<span style=\"color:#0099cc;\"> Ganda Sebelas</span>Dengan siapa kamu tinggal?~"
+            ]
+        },
+        {
+            "date": "12/20-12/31",
+            "text": [
+                "Hari-hari ini<span style=\"color:#0099cc;\">Natal</span>，Pemiliknya pasti pergi berbelanja lagi~"
+            ]
+        }
+    ]
+}
