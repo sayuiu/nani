@@ -291,8 +291,8 @@
         {
             "selector": ".waifu #live2d",
             "text": [
-                "Apa yang kamu lakukan, cepat singkirkan tanganmu",
-                "Mouse ... mouse ada di tempat yang salah!"
+                "O que você está fazendo, tire sua mão rapidamente",
+                "Mouse... o mouse está no lugar errado!(ó﹏ò｡)"
             ]
         }
     ],
@@ -300,11 +300,11 @@
         {
             "selector": ".waifu #live2d",
             "text": [
-                "Ya... Aku tidak sengaja menabraknya",
-                "Apa Kau Lolicon?",
-                "Pernahkah kamu melihat beruangku?",
-                "Jika menyentuhnya lagi, saya akan memanggil polisi!⌇●﹏●⌇",
-                "911, ada orang mesum di sini yang telah menyentuhku(ó﹏ò｡)"
+                "Sim... Eu acidentalmente esbarrei nele.",
+                "Você é Lolicon?",
+                "Você viu meu urso?",
+                "Se você tocar de novo, eu chamo a polícia!⌇●﹏●⌇",
+                "190, tem um pervertido aqui que me tocou.(ó﹏ò｡)"
             ]
         }
     ],
