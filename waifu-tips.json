@@ -143,97 +143,97 @@
         {
             "selector": ".fui-photo",
             "text": [
-                "Ingin mengambil foto suvenir?"
+                "Quer tirar uma foto de recordação?"
             ]
         },
         {
             "selector": ".fui-info-circle",
             "text": [
-                "berikut adalah informasi tentang saya"
+                "Aqui estão algumas informações sobre mim."
             ]
         },
         {
             "selector": ".fui-cross",
             "text": [
-                "tidakkah kamu menyukaiku..."
+                "você não gosta de mim... (╥﹏╥)"
             ]
         },
         {
             "selector": "#tor_show",
             "text": [
-                "Apakah sulit membalik halaman? Klik untuk menampilkan daftar isi artikel ini"
+                "É difícil virar as páginas? Clique para exibir o índice deste artigo."
             ]
         },
         {
             "selector": "#comment_go",
             "text": [
-                "Ingin mengomentari sesuatu?"
+                "Quer comentar algo?"
             ]
         },
         {
             "selector": "#night_mode",
             "text": [
-                "Jaga mata Anda di malam hari"
+                "Proteja seus olhos à noite"
             ]
         },
         {
             "selector": "#qrcode",
             "text": [
-                "Anda dapat terus menonton hanya dengan satu pindaian di ponsel Anda, sangat nyaman"
+                "Você pode continuar assistindo com apenas uma digitalização no seu telefone, muito conveniente."
             ]
         },
         {
             "selector": ".comment_reply",
             "text": [
-                "Apa yang akan Anda keluhkan?"
+                "Do que você reclamaria?"
             ]
         },
         {
             "selector": "#back-to-top",
             "text": [
-                "kembali ke awal"
+                "de volta ao começo"
             ]
         },
         {
             "selector": "#author",
             "text": [
-                "aku harus memanggilmu apa"
+                "Como devo te chamar?"
             ]
         },
         {
             "selector": "#mail",
             "text": [
-                "Tinggalkan email Anda, atau Anda akan menjadi orang tanpa gambar profil"
+                "Deixe seu e-mail, ou você será o único sem foto de perfil."
             ]
         },
         {
             "selector": "#url",
             "text": [
-                "Di mana rumahmu agar aku bisa mengunjunginya"
+                "Onde fica sua casa para que eu possa visitá-la?"
             ]
         },
         {
             "selector": "#textarea",
             "text": [
-                "Isi dengan hati-hati, komentar spam dilarang"
+                "Preencha com cuidado, comentários de spam são proibidos"
             ]
         },
         {
             "selector": ".OwO-logo",
             "text": [
-                "apakah Anda ingin memasukkan emoji"
+                "você quer inserir emoji"
             ]
         },
         {
             "selector": "#csubmit",
             "text": [
-                "Apakah Anda ingin [kirim]^(Komit), komentar pertama perlu ditinjau, harap tunggu dengan sabar~"
+                "Você gostaria de [kirim]^(Komit), o primeiro comentário precisa ser revisado, aguarde pacientemente~"
             ]
         },
         {
             "selector": ".ImageBox",
             "text": [
-                "Klik pada gambar untuk memperbesar"
+                "Clique na imagem para ampliar"
             ]
         },
         {
@@ -245,25 +245,25 @@
         {
             "selector": ".previous",
             "text": [
-                "Pergi ke halaman sebelumnya untuk melihat"
+                "Vá para a página anterior para visualizar"
             ]
         },
         {
             "selector": ".next",
             "text": [
-                "pergi ke halaman berikutnya"
+                "ir para a próxima página"
             ]
         },
         {
             "selector": ".dropdown-toggle",
             "text": [
-                "ini menunya"
+                "este é o menu"
             ]
         },
         {
             "selector": "c-player a.play-icon",
             "text": [
-                "ingin mendengarkan musik"
+                "quero ouvir musica"
             ]
         },
         {
@@ -306,7 +306,17 @@
                 "Você é Lolicon?",
                 "Você viu meu urso?",
                 "Se você tocar de novo, eu chamo a polícia!⌇●﹏●⌇",
-                "190, tem um pervertido aqui que me tocou.(ó﹏ò｡)"
+                "190, tem um pervertido aqui que me tocou.(ó﹏ò｡)",
+                "Você já tomou água hoje? Não vou deixar você se desidratar!",
+                "Precisa de ajuda? Estou aqui para salvar o dia... ou pelo menos tentar!",
+                "Nani? Você está me clicando de novo?! Eu gosto disso!",
+                "Eu vi você olhando para mim... Gostou do meu visual, né?",
+                "Ah, um visitante! Quer saber um segredo? Eu adoro cookies... de verdade!",
+                "Konnichiwa! Que tal um descanso? Prometo não contar ao chefe!",
+                "Precisa de um pouco de sorte? Clique de novo, pode ser seu dia de sorte!",
+                "Se eu tivesse um real para cada clique, já estaria rica!",
+                "Ei, você sabia que sou feita de pixels? Não parece, né? Sou fofinha!",
+                "Quer uma dica de anime? Só clicar mais uma vez!"
             ]
         }
     ],
@@ -314,7 +324,7 @@
         {
             "date": "01/01",
             "text": [
-                "<span style=\"color:#0099cc;\">Tahun Baru</span>Nah, tahun baru telah dimulai lagi, tahun ini{year}tahun~"
+                "<span style=\"color:#0099cc;\">Ano Novo</span>Nah, Bem, o ano novo começou novamente, este ano de {year} (੭˃ᴗ˂)੭"
             ]
         },
         {
