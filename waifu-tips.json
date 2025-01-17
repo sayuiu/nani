@@ -24,53 +24,53 @@
                 "Bom dia! O trabalho está indo bem, não fique sentado por muito tempo, levante-se e mexa-se mais!"
             ],
             "t11-14": [
-                "Ini siang, saya bekerja sepanjang pagi, sekarang waktunya makan siang!"
+                "É meio-dia, trabalhei a manhã toda, agora é hora do almoço!"
             ],
             "t14-17": [
-                "Sore hari gampang ngantuk, sudahkah target olahraga hari ini tercapai?"
+                "É fácil sentir sono à tarde. Você atingiu sua meta de exercícios hoje?"
             ],
             "t17-19": [
-                "Ini malam! Pemandangan sunset di luar jendela sangat indah, yang paling indah adalah sunset merah~"
+                "É noite! A vista do pôr do sol do lado de fora da janela é muito bonita, o mais bonito é o pôr do sol vermelho~"
             ],
             "t19-21": [
-                "Selamat malam, bagaimana kabarmu hari ini?"
+                "Boa noite, como você está hoje?"
             ],
             "t21-23": [
-                "Ini sudah sangat larut, tidurlah lebih awal, selamat malam~"
+                "Já é muito tarde, vá dormir cedo, boa noite~"
             ],
             "t23-5": [
-                "Apakah Anda burung hantu malam? Anda tidak tidur terlalu larut, mengapa Anda tidak bangun besok?"
+                "Você é uma pessoa noturna? Você não dormiu até tarde, por que não acordou amanhã?"
             ],
             "default": [
-                "Hai~ datang dan goda aku!"
+                "Ei~ venha me provocar!"
             ]
         },
         "referrer_message": {
             "localhost": [
-                "selamat membaca<span style=\"color:#0099cc;\">『",
-                "』</span>",
+                "Boa leitura <span style=\"color:#0099cc;\">",
+                "</span>",
                 " - "
             ],
             "baidu": [
-                "Hello! Teman-teman dari pencarian Baidu<br>Anda sedang mencari <span style=\"color:#0099cc;\">",
-                "</span> Apakah kamu menemukan Aku?"
+                "Olá! Amigos da pesquisa <br>Você está procurando por <span style=\"color:#0099cc;\">",
+                "</span> Você me encontrou?"
             ],
             "so": [
-                "Hello! Teman dari Penelusuran 360<br>Anda sedang mencari <span style=\"color:#0099cc;\">",
-                "</span> Apakah kamu menemukan Aku?"
+                "Olá! Amigos do Search 360<br>Você está procurando por <span style=\"color:#0099cc;\">",
+                "</span> Você me encontrou?"
             ],
             "google": [
-                "Hello! teman dari pencarian google<br>Selamat membaca<span style=\"color:#0099cc;\">『",
-                "』</span>",
+                "Olá! amigos da pesquisa do Google<br>Boa leitura<span style=\"color:#0099cc;\"> ",
+                "</span>",
                 " - "
             ],
             "default": [
-                "Hello! dari <span style=\"color:#0099cc;\">",
-                "</span> teman"
+                "Olá! de <span style=\"color:#0099cc;\">",
+                "</span> amigos"
             ],
             "none": [
-                "selamat membaca<span style=\"color:#0099cc;\">『",
-                "』</span>",
+                "Boa leitura, estarei aqui lendo com você <span style=\"color:#0099cc;\">",
+                "</span>",
                 " - "
             ]
         },
@@ -237,7 +237,7 @@
         {
             "selector": "input[name=s]",
             "text": [
-                "Tidak dapat menemukan apa yang Anda cari? cari itu"
+                "Não consegue encontrar o que procura? procure por isso"
             ]
         },
         {
