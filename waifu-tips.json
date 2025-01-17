@@ -4,7 +4,8 @@
             "Haha, você abre o console, quer ver meu segredo?"
         ],
         "copy_message": [
-            "Não importa o que você tenha copiado, lembre-se de adicionar a fonte ao reimprimir."
+            "Não importa o que você tenha copiado, lembre-se de adicionar a fonte ao reimprimir.",
+            "Fiquei curiosa, o que você copiou?"
         ],
         "screenshot_message": [
             "Muito bem, não é fofo?"
@@ -76,7 +77,7 @@
         },
         "referrer_hostname": {
             "example.com": [
-                "situs sampel"
+                "site de amostra"
             ],
             "www.fghrsh.net": [
                 "blog FGHRSH"
@@ -84,16 +85,16 @@
         },
         "model_message": {
             "1": [
-                "Saus Pio dari Pembuat Ramuan ~"
+                "Molho Pio do Fabricante de Poções ~"
             ],
             "2": [
-                "Saus Tia dari Pembuat Ramuan ~"
+                "Molho da Tia do Preparador de Poções ~"
             ]
         },
         "hitokoto_api_message": {
             "lwl12.com": [
-                "Kalimat ini berasal <span style=\"color:#0099cc;\">『{source}』</span>",
-                "，Ya <span style=\"color:#0099cc;\">{creator}</span> Positif",
+                "Esta frase vem de <span style=\"color:#0099cc;\">{source}</span>",
+                "，Sim <span style=\"color:#0099cc;\">{creator}</span> Positivo",
                 "。"
             ],
             "fghrsh.net": [
@@ -111,31 +112,32 @@
         {
             "selector": ".container a[href^='http']",
             "text": [
-                "aku mau melihat <span style=\"color:#0099cc;\">{text}</span> 么？"
+                "Quer ver <span style=\"color:#0099cc;\">{text}</span> um pouco？ 么？"
             ]
         },
         {
             "selector": ".fui-home",
             "text": [
-                "Klik untuk masuk ke halaman awal, jika ingin kembali ke halaman sebelumnya, Anda dapat menggunakan fungsi kembali dari browser"
+                "Clique para entrar na página inicial, se quiser retornar à página anterior, você pode usar a função voltar do navegador"
             ]
         },
         {
             "selector": ".fui-chat",
             "text": [
-                "Setiap kata, setiap cemberut dan senyum. Satu kata dan satu kalimat, satu perahu dayung."
+                "Cada palavra, cada carranca e sorriso. Uma palavra e uma frase, um barco a remo."
             ]
         },
         {
             "selector": ".fui-eye",
             "text": [
-                "Hmm... Apakah Anda ingin beralih Kanban Girl?"
+                "Hmm... Você quer mudar de Waifu?"
             ]
         },
         {
             "selector": ".fui-user",
             "text": [
-                "Ingin mendandani Play Anda?"
+                "Quer que eu troque de roupa?",
+                "Não gostou da minha roupa?"
             ]
         },
         {
